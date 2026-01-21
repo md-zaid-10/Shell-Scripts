@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Make sure to connect the EC2 instance with the AWS Cli before running the script
 #######################
 # Author: Mohammedzaid
 # Date: 21/01/2026
